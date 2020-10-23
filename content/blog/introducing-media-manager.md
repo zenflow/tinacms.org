@@ -2,9 +2,11 @@
 title: Introducing the TinaCMS Media Manager
 date: '2020-10-02T10:20:39-04:00'
 author: Kendall Strautman
-last_edited: '2020-10-05T01:23:41.347Z'
+last_edited: '2020-10-23T10:52:59.868Z'
 ---
 Websites today contain more dog GIFs and landscape hero photos than ever. Content editors need a way to work with that media when creating and updating web pages, blogs, or articles.
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FlMB3VGQbgW89Qajf2jjwYl%2Fmstack%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 Up until now, media changes with Tina have been handled through image fields. By clicking on the field, editors could upload new images from their local filesystem. Developers would register a [Media Store](/docs/media/#media-store) to the CMS that would handle uploading files. However, there was no way to view images that had already been uploaded to use them in a piece of content.
 
