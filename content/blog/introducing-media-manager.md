@@ -2,7 +2,7 @@
 title: Introducing the TinaCMS Media Manager
 date: '2020-10-02T10:20:39-04:00'
 author: Kendall Strautman
-last_edited: '2020-10-23T11:10:40.038Z'
+last_edited: '2020-10-23T11:44:08.248Z'
 ---
 Websites today contain more dog GIFs and landscape hero photos than ever. Content editors need a way to work with that media when creating and updating web pages, blogs, or articles.
 
@@ -230,3 +230,5 @@ While making all these changes, we also revisited the previous media stores for 
 Check out the [`NextGithubMediaStore`](https://github.com/tinacms/tinacms/blob/master/packages/next-tinacms-github/src/next-github-media-store.ts), the [PlaceCage media store](https://github.com/ncphillips/tinacms-placecage), or the [Cloudinary media store](https://github.com/tinalabs/media-manager-prototype/blob/8f766ff7d421a9f6dd8fb8ea40d2f08da9537de3/pages/gh/posts/%5Bslug%5D.tsx#L28-L81) prototypes for some inspiration on creating or extending your own media stores. And stay tuned for follow-up thoughts on this pattern in an upcoming blog post!
 
 Hopefully, this post arms you with all the information needed to upgrade your Tina packages and start playing with the media manager. As usual, we'd love feedback and ideas in the [forum](https://community.tinacms.org/) or [bug reports](https://github.com/tinacms/tinacms/issues) on the repository. Thanks and happy media managing 🦙 🌅!
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fb7nmiwTTFZvGpwsHFa6P5y%2FJamstatic-brand-assets%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
