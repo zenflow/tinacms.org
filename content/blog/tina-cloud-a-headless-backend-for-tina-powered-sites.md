@@ -2,13 +2,13 @@
 title: Introducing Tina Cloud
 date: '2020-11-26T21:53:53-04:00'
 author: Scott Gallant
-last_edited: '2020-11-27T01:59:49.861Z'
+last_edited: '2020-11-27T02:06:04.520Z'
 ---
 Around this time last year, we [announced TinaCMS](https://www.youtube.com/watch?v=iPDCmbaEF0Y), an open-source toolkit to give your JAMstack sites a visual editing experience. At that time, we had a simple objective:
 
 _Take the concept of "visual editing" used by tools like Wix, Squarespace, or Webflow and offer it to developers in the form of open-source Javascript libraries._
 
-Tina was just a budding project at that time but it has come a long way in the last year and we recently completed the [last feature](https://tina.io/blog/introducing-media-manager/) from our original plan.
+Tina has come a long way in the last year and we recently completed the [last feature](https://tina.io/blog/introducing-media-manager/) from our original plan.
 
 ## **Own your content, no lock-in**
 
@@ -17,7 +17,7 @@ To prevent vendor lock-in we designed Tina to read and write content from any AP
 Write content to any API  
 ![](/img/blog/tina-api-friendly.png)
 
-Since Tina is just Javascript that runs when your site is in _edit mode_, it lacks some basic functionality that comes with out of the box with other CMS solutions like user management, authentication, content storage, and more.  With Tina, you have to roll a lot of that stuff yourself and it can be a lot of work.  That’s why we’re happy to share our vision of Tina Cloud: a headless backend designed to power Tina sites.
+Since Tina can talk to any API it becomes very versatile and prevents lock-in with any one vendor. But on the flip side, Tina is just Javascript that runs when your site is in _edit mode_ and therefore lacks some basic functionality that comes with other CMS solutions like user management, authentication, content storage, and more.  With Tina, you have to roll a lot of that stuff yourself and it can be a lot of work.  That’s why we’re happy to share our vision of Tina Cloud: a headless backend designed to power Tina sites.
 
 ## **Tina Cloud**
 
